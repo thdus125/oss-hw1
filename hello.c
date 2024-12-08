@@ -1,3 +1,3 @@
 void main(){
-    ptintf("12");
+    ptintf("123");
 }
